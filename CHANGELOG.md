@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/ChrisRobston/fucking-package/compare/v1.0.0...v2.0.0) (2020-08-24)
+
 ## [1.0.0](https://github.com/ChrisRobston/fucking-package/compare/v0.0.18...v1.0.0) (2020-08-24)
 
 ### [0.0.18](https://github.com/ChrisRobston/fucking-package/compare/v0.0.17...v0.0.18) (2020-08-24)
