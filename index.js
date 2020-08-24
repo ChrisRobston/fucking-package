@@ -1,3 +1,3 @@
 module.exports = function () {
-  return 'FUCKING PACKAGE';
+  return 'FUCKING PACKAGE V3';
 }
