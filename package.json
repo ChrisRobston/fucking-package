@@ -1,11 +1,11 @@
 {
   "name": "fucking-package",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "",
   "main": "index.js",
   "repository": "git@github.com:ChrisRobston/fucking-package.git",
   "scripts": {
-    "release": "standard-version && git push --follow-tags && yarn publish"
+    "release": "standard-version && git push --follow-tags && npm publish"
   },
   "keywords": [],
   "author": "",
