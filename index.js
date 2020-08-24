@@ -1,3 +1,3 @@
 module.exports = function () {
-  return 'FUCKING PACKAGEwefwe';
+  return 'FUCKING PACKAGEwefwedede';
 }
